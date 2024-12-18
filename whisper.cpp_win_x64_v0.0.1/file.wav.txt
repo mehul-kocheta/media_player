@@ -1,0 +1,34 @@
+Video Player with Automatic Subtitle Synchronization                                                                                               May 2024- Current
+Tools: Python, PyQt, PyTorch, C++
+A Video Player that automatically synchronizes the subtitles using  Speech-to-text model. 
+Features:
+Developed User Interface using PyQt5 and Python.
+Used Open-AI’s Whisper model C++ implementation that lets it run on any computer without internet.
+Dedicated Subtitle synchronization buttons to fine tune it manually.
+
+Playlist Tracker                                                                                                                                                           June 2024– August 2024
+Tools: PyQt, Python, Google API, MySQL
+A desktop application that keeps track of the playlist that you are watching and helps you manage and organize your studies.
+Features:
+Used Youtube API to get information about the videos present in the playlist and make a check-list of it.
+Calculates the time required to complete the playlist at different speeds as well as show graphs of the progress till now .
+Fetches the thumbnails of videos and lets you scroll through all the playlist that you are currently watching.
+Keeps track of the videos that you watch and updates a database according to it.
+
+E-Ledger Application with AI     		                                                                                                                    June 2024– Current
+Tools: Github, Cloud SQL, Text Detection, PyQt
+An application that helps you keep track of the ongoing credits and help you analyze them.
+Features:
+Bill Scanning and Data Extraction:
+Utilizes AI-based text detection to accurately extract item names and corresponding costs from scanned bills.
+Stores extracted data in a structured format for easy analysis.
+User Registration and Credit Tracking:
+Manages user profiles, including registration, authentication, and authorization.
+Tracks credit transactions between users, updating balances in real-time.
+Maintains a detailed history of transactions for each user.
+Data Analysis and Reporting:
+Provides comprehensive insights into credit trends, outstanding balances, and payment patterns.
+Generates customizable reports for users to analyze their financial health.
+
+https://www.linkedin.com/jobs/search/?currentJobId=3646815412&keywords=software%20engineer%20intern&originalSubdomain=in
+https://www.linkedin.com/jobs/search/?currentJobId=3992563376&f_E=1&keywords=software%20engineer%20intern&origin=JOB_SEARCH_PAGE_JOB_FILTER&originalSubdomain=in
